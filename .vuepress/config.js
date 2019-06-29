@@ -1,6 +1,8 @@
 module.exports = {
+  base: "/learning-source/",
   title: "Learning Resource",
   description: "Just playing around",
+  redirectPath: "/id/",
   locales: {
     "/id/": {
       lang: "id-ID",
@@ -19,7 +21,7 @@ module.exports = {
         sidebar: [
           {
             title: "yarn",
-            children: ["/yarn/troubleshoot"]
+            children: ["id/yarn/"]
           }
         ]
       }

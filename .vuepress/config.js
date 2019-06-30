@@ -12,12 +12,11 @@ module.exports = {
   },
 
   themeConfig: {
-    logo: 'https://img.icons8.com/dotty/344/learning.png',
+    logo: "https://img.icons8.com/dotty/344/learning.png",
     displayAllHeaders: true,
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com/puterakahfi/learning-source' },
-
+      { text: "Home", link: "/" },
+      { text: "Github", link: "https://github.com/puterakahfi/learning-source" }
     ],
     locales: {
       "/id/": {
@@ -25,7 +24,10 @@ module.exports = {
         title: "VuePress",
         description: "Vue-powered Static Site Generator",
         sidebar: [
-          
+          {
+            title: "flutter",
+            children: ["id/flutter/"]
+          },
           {
             title: "gridsome",
             children: ["id/gridsome/"]

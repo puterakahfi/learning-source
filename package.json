@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.2"
   }
 }

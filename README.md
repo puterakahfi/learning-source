@@ -7,4 +7,3 @@ actionText: Learning Resource →
 actionLink: /id/
 ---
 
-[![Build Status](https://travis-ci.org/puterakahfi/learning-source.svg?branch=master)](https://travis-ci.org/puterakahfi/learning-source)

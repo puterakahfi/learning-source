@@ -1,1 +1,7 @@
-# Nuxtjs
+---
+tags: ["nuxtjs", "vuejs"]
+---
+
+# Content
+
+<TagLinks />

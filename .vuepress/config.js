@@ -1,12 +1,12 @@
 module.exports = {
   base: "/learning-source/",
-  title: "Learning Source",
+  title: "Learning Resources",
   description: "Links, videos, tutorials about learning",
-  redirectPath: "/id/",
+  redirectPath: "/en/",
   locales: {
-    "/id/": {
-      lang: "id-ID",
-      title: "Learning Source",
+    "/en/": {
+      lang: "en-US",
+      title: "Learning Resources",
       description: "Just playing arounds"
     }
   },
@@ -26,49 +26,50 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Tags", link: "/tags" },
+      { text: "My Web", link: "https://puterakahfi.github.io" },
       { text: "Github", link: "https://github.com/puterakahfi/learning-source" }
     ],
     locales: {
-      "/id/": {
+      "/en/": {
         lang: "bahasa", // this will be set as the lang attribute on <html>
         title: "VuePress",
         description: "Vue-powered Static Site Generator",
         sidebar: [
           {
             title: "flutter",
-            children: ["id/flutter/"]
+            children: ["en/flutter/"]
           },
           {
             title: "gridsome",
-            children: ["id/gridsome/"]
+            children: ["en/gridsome/"]
           },
           {
             title: "javascript",
-            children: ["id/javascript/"]
+            children: ["en/javascript/"]
           },
           {
             title: "nuxtjs",
-            children: ["id/nuxtjs/"]
+            children: ["en/nuxtjs/"]
           },
           {
             title: "symfony framework",
-            children: ["id/symfony-fw/"]
+            children: ["en/symfony-fw/"]
           },
           {
             title: "software development",
-            children: ["id/software-dev/"]
+            children: ["en/software-dev/"]
           },
           {
             title: "vuejs",
-            children: ["id/vuejs/"]
+            children: ["en/vuejs/"]
           },
           {
             title: "vuepress",
-            children: ["id/vuepress/"]
+            children: ["en/vuepress/"]
           },
           {
             title: "yarn",
-            children: ["id/yarn/troubleshoot/"]
+            children: ["en/yarn/troubleshoot/"]
           }
         ]
       }

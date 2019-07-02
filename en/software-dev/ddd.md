@@ -7,7 +7,7 @@ tags: ["ddd"]
 <TagLinks />
 
 ## Introduction
-
+- [Clean Domain-Driven Design in 10 minutes](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 - [Domain driven design - what is it and how do you use it ?](https://airbrake.io/blog/software-design/domain-driven-design)
 
 ## [Data Transfer Object- DTO](./ddd/dto.md)

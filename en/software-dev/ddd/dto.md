@@ -4,6 +4,8 @@ sidebar: auto
 
 # DTO ( Data Transfer Object)
 
+![dto image](https://martinfowler.com/eaaCatalog/dtoSketch.gif)
+
 ## What is DTO
 
 - [https://martinfowler.com/eaaCatalog/dataTransferObject.html](https://martinfowler.com/eaaCatalog/dataTransferObject.html)

@@ -62,7 +62,10 @@ module.exports = {
           },
           {
             title: "software development",
-            children: ["en/software-dev/"]
+            children: [
+              "en/software-dev/design-pattern",
+              "en/software-dev/ddd",
+              "en/software-dev/software-architecture"]
           },
           {
             title: "vuejs",

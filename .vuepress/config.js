@@ -12,9 +12,10 @@ module.exports = {
   },
 
   themeConfig: {
-    serviceWorker: {
-      updatePopup: true // Boolean | Object, default to undefined.
-    },
+    repo: 'https://github.com/puterakahfi/learning-source.git',
+    // Customising the header label
+    // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
+    repoLabel: 'Contribute!',
     lastUpdated: "Last Updated", // string | boolean
     docsBranch: "master",
     // defaults to false, set to true to enable
@@ -23,6 +24,10 @@ module.exports = {
     editLinkText: "Help us improve this page!",
     logo: "https://img.icons8.com/dotty/344/learning.png",
     displayAllHeaders: true,
+
+    serviceWorker: {
+      updatePopup: true // Boolean | Object, default to undefined.
+    },
     nav: [
       { text: "Home", link: "/" },
       { text: "Tags", link: "/tags" },

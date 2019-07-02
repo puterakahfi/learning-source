@@ -12,7 +12,7 @@ module.exports = {
   },
 
   themeConfig: {
-    repo: 'https://github.com/puterakahfi/learning-source.git',
+    repo: 'https://github.com/puterakahfi/learning-source',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Contribute!',

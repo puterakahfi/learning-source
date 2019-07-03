@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "docs:dev": "vuepress dev ",
-    "docs:build": "vuepress build ",
-    "predeploy": "yarn docs:build",
+    "dev": "vuepress dev ",
+    "build": "vuepress build ",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d .vuepress/dist"
   },
   "devDependencies": {

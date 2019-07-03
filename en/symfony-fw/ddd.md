@@ -1,12 +1,9 @@
----
-sidebar: auto
----
-
 # DDD With Symfony
 
-## handling DTO and form
+## Handling DTO and form
 
 - [Symfony Form Validation with DTO](https://www.thinktocode.com/2018/05/17/symfony-form-validation-with-dto/)
+- [Don't Use Entities in Symfony Forms. Use Custom Data Objects Instead](https://blog.martinhujer.cz/symfony-forms-with-request-objects/)
 
 ## DDD Symfony Projects
 

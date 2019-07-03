@@ -1,4 +1,4 @@
-# Implement software architecture in symfony framework
+# Software architecture in symfony framework
 
 ## Ports and Adapters
 

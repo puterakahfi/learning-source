@@ -17,6 +17,14 @@ tags: ["ddd"]
 - [DDD & REST Domain Driven Apis for the Web](https://www.slideshare.net/SpringCentral/ddd-rest-domain-driven-apis-for-the-web)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1RgXgZcj5nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+## DDD and Software Architecture
+
+
+### Anemic model vs rich domain model
+- [https://thevaluable.dev/anemic-domain-model/](https://thevaluable.dev/anemic-domain-model/)
+
 ### Free DDD E-Books
 
 - [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years)

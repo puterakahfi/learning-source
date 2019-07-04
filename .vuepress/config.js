@@ -23,8 +23,6 @@ module.exports = {
     // custom text for edit link. Defaults to "Edit this page"
     editLinkText: "Help us improve this page!",
     logo: "https://img.icons8.com/dotty/344/learning.png",
-    displayAllHeaders: true,
-
     serviceWorker: {
       updatePopup: true // Boolean | Object, default to undefined.
     },
@@ -42,7 +40,7 @@ module.exports = {
         sidebar: [
           {
             title: 'Basic web development',
-            children: ["en/css/", "en/html/", "en/javascript/"]
+            children: ["en/css/", "en/html/", "en/javascript/", "en/git"]
 
           },
           {

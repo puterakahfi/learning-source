@@ -12,6 +12,11 @@ module.exports = {
   },
 
   themeConfig: {
+
+    algolia: {
+      apiKey: '<API_KEY>',
+      indexName: '<INDEX_NAME>'
+    },
     repo: 'https://github.com/puterakahfi/learning-source',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`

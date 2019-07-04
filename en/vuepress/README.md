@@ -2,7 +2,7 @@
 tags: ["vuepress", "vuejs"]
 ---
 
-# Content
+# Vuepress
 
 [[toc]]
 

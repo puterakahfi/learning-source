@@ -9,6 +9,7 @@
     "gh-pages": "^2.0.1"
   },
   "dependencies": {
+    "buefy": "^0.7.8",
     "vuepress": "^1.0.2"
   }
 }

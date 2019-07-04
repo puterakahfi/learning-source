@@ -12,11 +12,6 @@ module.exports = {
   },
 
   themeConfig: {
-
-    algolia: {
-      apiKey: '<API_KEY>',
-      indexName: '<INDEX_NAME>'
-    },
     repo: 'https://github.com/puterakahfi/learning-source',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
@@ -46,6 +41,11 @@ module.exports = {
         description: "Vue-powered Static Site Generator",
         sidebar: [
           {
+            title: 'Basic web development',
+            children: ["en/css/", "en/html/", "en/javascript/"]
+
+          },
+          {
             title: "flutter",
             children: ["en/flutter/"]
           },
@@ -60,6 +60,10 @@ module.exports = {
           {
             title: "nuxtjs",
             children: ["en/nuxtjs/"]
+          },
+          {
+            title: "php",
+            children: ["en/php/composer"]
           },
           {
             title: "symfony framework",

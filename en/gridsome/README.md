@@ -1,7 +1,7 @@
 ---
-tags: ["gridsome","vuejs"]
+tags: ["gridsome", "vuejs"]
 ---
 
-# Content
+# Gridsome
 
 <TagLinks />

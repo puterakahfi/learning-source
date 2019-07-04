@@ -6,6 +6,11 @@
 - [https://www.learn-js.org/](https://www.learn-js.org/)
 - [http://javascript.info/](http://javascript.info/)
 
+### Package Manager
+
+- [npm](https://www.npmjs.com/)
+- [Yarn](https://yarnpkg.com/)
+
 ### Free E-books
 
 - [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
@@ -13,3 +18,4 @@
 ### Ecosystem
 
 - [Vuejs](https://vuejs.org/)
+- [Reactjs](https://reactjs.org/)

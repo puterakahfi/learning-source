@@ -4,6 +4,8 @@
 
 ### Beginner
 
+- [git -just a simple guide for getting started with git. no deep shit](https://rogerdudler.github.io/git-guide/)
+
 #### Video Tutorials
 
 <div class="columns">

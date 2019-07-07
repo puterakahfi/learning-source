@@ -83,6 +83,10 @@ module.exports = {
             children: ["en/vuepress/"]
           },
           {
+            title: "web design",
+            children: ["en/web-design/","en/web-design/ui", "en/web-design/ux"]
+          },
+          {
             title: "yarn",
             children: ["en/yarn/troubleshoot/"]
           }

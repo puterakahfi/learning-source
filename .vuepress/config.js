@@ -72,6 +72,7 @@ module.exports = {
             children: [
               "en/software-dev/design-pattern",
               "en/software-dev/ddd",
+              "en/software-dev/rest",
               "en/software-dev/software-architecture"]
           },
           {
@@ -84,7 +85,7 @@ module.exports = {
           },
           {
             title: "web design",
-            children: ["en/web-design/","en/web-design/ui", "en/web-design/ux"]
+            children: ["en/web-design/", "en/web-design/ui", "en/web-design/ux"]
           },
           {
             title: "yarn",

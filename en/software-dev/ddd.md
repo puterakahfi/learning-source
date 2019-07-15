@@ -6,9 +6,16 @@ tags: ["ddd"]
 
 <TagLinks />
 
+![](https://cdn-images-1.medium.com/max/1600/1*FqBEqmDNo4ikzFmzxTQpUA.png)
+
 ## Introduction
+
 - [Clean Domain-Driven Design in 10 minutes](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 - [Domain driven design - what is it and how do you use it ?](https://airbrake.io/blog/software-design/domain-driven-design)
+
+### Domain
+
+- [What is the Domain Model in Domain Driven Design?](https://culttt.com/2014/11/12/domain-model-domain-driven-design/)
 
 ## [Data Transfer Object- DTO](./ddd/dto.md)
 
@@ -17,12 +24,13 @@ tags: ["ddd"]
 - [DDD & REST Domain Driven Apis for the Web](https://www.slideshare.net/SpringCentral/ddd-rest-domain-driven-apis-for-the-web)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1RgXgZcj5nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## DDD and Software Architecture
 
+- [Domain-Driven Design - Layered Architecture](https://archfirst.org/domain-driven-design-6-layered-architecture/)
+- [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 
 ### Anemic model vs rich domain model
+
 - [https://thevaluable.dev/anemic-domain-model/](https://thevaluable.dev/anemic-domain-model/)
 
 ### Free DDD E-Books

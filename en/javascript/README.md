@@ -6,6 +6,12 @@
 - [https://www.learn-js.org/](https://www.learn-js.org/)
 - [http://javascript.info/](http://javascript.info/)
 
+### video tutorials
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkZNo7MFNFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##
+
 ### Package Manager
 
 - [npm](https://www.npmjs.com/)

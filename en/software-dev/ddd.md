@@ -41,6 +41,10 @@ One of the main characteristics of an entity is that it has an identity. The ide
 
 ## [Data Transfer Object- DTO](./ddd/dto.md)
 
+### DDD and Validation
+
+- [Validation and DDD](https://enterprisecraftsmanship.com/2016/09/13/validation-and-ddd/)
+
 ## DDD and API
 
 - [DDD & REST Domain Driven Apis for the Web](https://www.slideshare.net/SpringCentral/ddd-rest-domain-driven-apis-for-the-web)

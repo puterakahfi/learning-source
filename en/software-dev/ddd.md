@@ -13,9 +13,31 @@ tags: ["ddd"]
 - [Clean Domain-Driven Design in 10 minutes](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 - [Domain driven design - what is it and how do you use it ?](https://airbrake.io/blog/software-design/domain-driven-design)
 
+## Concept
+
 ### Domain
 
 - [What is the Domain Model in Domain Driven Design?](https://culttt.com/2014/11/12/domain-model-domain-driven-design/)
+
+#### Domain Event
+
+- [Implementing Domain Event](https://culttt.com/2014/09/22/implementing-domain-events/)
+
+### Entity
+
+::: tip
+One of the main characteristics of an entity is that it has an identity. The identity never changes through the life cycle of an entity.
+:::
+
+- [DDD Decoded - Entities and Value Objects Explained](https://blog.sapiensworks.com/post/2016/07/29/DDD-Entities-Value-Objects-Explained)
+
+- [DDD Concepts and Patterns – Entities](http://blog.opus.ch/2018/12/ddd-concepts-and-patterns-entities/)
+
+### Bounded Context
+
+### Aggregate
+
+- [Martin Fowler - DDD Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)
 
 ## [Data Transfer Object- DTO](./ddd/dto.md)
 

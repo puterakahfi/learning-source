@@ -5,6 +5,7 @@
 - [https://nodeschool.io/](https://nodeschool.io/)
 - [https://www.learn-js.org/](https://www.learn-js.org/)
 - [http://javascript.info/](http://javascript.info/)
+- [https://developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ### video tutorials
 

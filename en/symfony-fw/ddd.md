@@ -12,3 +12,5 @@
 ## DDD and doctrine
 
 - [https://www.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html#adding-behavior-to-entities](https://www.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html#adding-behavior-to-entities)
+
+- [https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)

@@ -37,9 +37,14 @@ A RESTful API is an application program interface (API) that uses HTTP requests 
 ::: tip
 
 update a Resource via PUT method and a partial update using PATCH.
+
 :::
 
 - [RESTful API Design — PUT vs PATCH](https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b)
+
+### Best Practices
+
+- [RESTful API Design Tips from Experience](https://medium.com/studioarmix/learn-restful-api-design-ideals-c5ec915a430f)
 
 ## Links
 

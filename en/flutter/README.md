@@ -7,6 +7,8 @@
 
 ## Tutorials
 
+- [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter/)
+
 ## Mobile
 
 ### Flutter Layouting

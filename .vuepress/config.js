@@ -3,6 +3,9 @@ module.exports = {
   title: "Learning Resources",
   description: "Links, videos, tutorials about learning",
   redirectPath: "/en/",
+  postcss: {
+      plugins: [require('tailwindcss')('./tailwind.js'), require('autoprefixer')],
+    },
   locales: {
     "/en/": {
       lang: "en-US",

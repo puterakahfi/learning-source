@@ -3,9 +3,6 @@ module.exports = {
   title: "Learning Resources",
   description: "Links, videos, tutorials about learning",
   redirectPath: "/en/",
-  postcss: {
-      plugins: [require('tailwindcss')('./tailwind.js'), require('autoprefixer')],
-    },
   locales: {
     "/en/": {
       lang: "en-US",
@@ -46,29 +43,10 @@ module.exports = {
             children: ["en/css/", "en/html/", "en/javascript/", "en/git"]
 
           },
+          '/en/flutter/',
           {
-            title: "flutter",
-            children: ["en/flutter/"]
-          },
-          {
-            title: "gridsome",
-            children: ["en/gridsome/"]
-          },
-          {
-            title: "javascript",
-            children: ["en/javascript/"]
-          },
-          {
-            title: "nuxtjs",
-            children: ["en/nuxtjs/"]
-          },
-          {
-            title: "php",
-            children: ["en/php/composer"]
-          },
-          {
-            title: "symfony framework",
-            children: ["en/symfony-fw/"]
+            title: "PHP Ecosystem",
+            children: ["en/php/","en/php/composer","en/symfony-fw/"]
           },
           {
             title: "software development",
@@ -79,20 +57,12 @@ module.exports = {
               "en/software-dev/software-architecture"]
           },
           {
-            title: "vuejs",
-            children: ["en/vuejs/"]
-          },
-          {
-            title: "vuepress",
-            children: ["en/vuepress/"]
+            title: "vuejs Ecosystem",
+            children: ["en/vuejs/","en/vuepress/","en/gridsome/","en/nuxtjs/"]
           },
           {
             title: "web design",
             children: ["en/web-design/", "en/web-design/ui", "en/web-design/ux"]
-          },
-          {
-            title: "yarn",
-            children: ["en/yarn/troubleshoot/"]
           }
         ]
       }

@@ -5,6 +5,7 @@
 ### Beginner
 
 - [git -just a simple guide for getting started with git. no deep shit](https://rogerdudler.github.io/git-guide/)
+- [gitflow workflow](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 #### Video Tutorials
 

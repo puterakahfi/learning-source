@@ -1,11 +1,12 @@
 # PHP
 
 - [PHP Official ](https://php.net/)
-- [Composer (PHP Packages)](https://getcomposer.org/)
+- [Composer (PHP Packages and Dependency Manager)](https://getcomposer.org/)
 
 ## Links
 
 - [phptherightway.com](https://phptherightway.com/)
+- [PHP Design Patterns ](https://designpatternsphp.readthedocs.io/)
 
 ## Tutorials
 

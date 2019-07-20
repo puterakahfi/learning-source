@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.pixabay.com/photo/2019/02/04/08/38/pixel-cells-3974185_960_720.png
+heroImage: https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/teaching_f1cm.svg
 actionText: Lets' go →
 actionLink: /en/
 ---

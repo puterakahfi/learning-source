@@ -1,4 +1,4 @@
-# UX ( User Experiences)
+# UX ( User Experience)
 
 ## Introduction
 

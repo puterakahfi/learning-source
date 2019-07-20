@@ -2,7 +2,7 @@
 tags: ["nuxtjs", "vuejs"]
 ---
 
-# Content
+# NuxtJS
 
 <TagLinks />
 

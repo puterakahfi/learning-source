@@ -5,6 +5,7 @@
 - [Awesome Vue -A curated list of awesome things related to Vue.js ](https://awesome-vue.js.org)
 
 # Tutorials
+- [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
 ## Beginner
 

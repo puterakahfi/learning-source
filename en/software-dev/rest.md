@@ -28,12 +28,6 @@
 
 - [Bulk Operations](http://apostolidis.me/bulk-operations/)
 
-### PUT vs PATCH
-
-> update a Resource via PUT method and a partial update using PATCH.
-
-- [RESTful API Design — PUT vs PATCH](https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b)
-
 ### REST API Validation
 
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/)
@@ -41,6 +35,7 @@
 ### Best Practices
 
 - [RESTful API Design Tips from Experience](https://medium.com/studioarmix/learn-restful-api-design-ideals-c5ec915a430f)
+- [RESTful API Design. Best Practices in a Nutshell](https://phauer.com/2015/restful-api-design-best-practices/)
 
 ### Backward Compatibility
 
@@ -51,6 +46,22 @@
 #### What different between REST and RESTfull
 
 > Representational state transfer (REST) is a style of software architecture. As described in a dissertation by Roy Fielding, REST is an "architectural style" that basically exploits the existing technology and protocols of the Web. RESTful is typically used to refer to web services implementing such an architecture.
+
+### PUT vs PATCH
+
+> update a Resource via PUT method and a partial update using PATCH.
+
+- [RESTful API Design — PUT vs PATCH](https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b)
+
+- [REST – PUT vs POST](https://restfulapi.net/rest-put-vs-post/)
+
+### REST is not database CRUD
+
+- [Guys, REST APIs are not Databases](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4)
+
+## API Specifications
+
+- [JSON API](https://jsonapi.org/)
 
 ## Links
 

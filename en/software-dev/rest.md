@@ -2,15 +2,11 @@
 
 ## Introduction
 
-::: tip
-
-A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data. ... REST technology is generally preferred to the more robust Simple Object Access Protocol (SOAP) technology because REST leverages less bandwidth, making it more suitable for internet usage.
-
- <br/>
-
-:::
+> A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data. ... REST technology is generally preferred to the more robust Simple Object Access Protocol (SOAP) technology because REST leverages less bandwidth, making it more suitable for internet usage.
 
 > [https://searchmicroservices.techtarget.com/definition/RESTful-API](https://searchmicroservices.techtarget.com/definition/RESTful-API)
+
+- [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
 ## Concept
 
@@ -38,9 +34,23 @@ A RESTful API is an application program interface (API) that uses HTTP requests 
 
 - [RESTful API Design — PUT vs PATCH](https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b)
 
+### REST API Validation
+
+- [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/)
+
 ### Best Practices
 
 - [RESTful API Design Tips from Experience](https://medium.com/studioarmix/learn-restful-api-design-ideals-c5ec915a430f)
+
+### Backward Compatibility
+
+- [How to make your REST APIs backward-compatible](https://www.infoworld.com/article/3401920/how-to-make-your-rest-apis-backward-compatible.html)
+
+### REST API Confusing Parts
+
+#### What different between REST and RESTfull
+
+> Representational state transfer (REST) is a style of software architecture. As described in a dissertation by Roy Fielding, REST is an "architectural style" that basically exploits the existing technology and protocols of the Web. RESTful is typically used to refer to web services implementing such an architecture.
 
 ## Links
 
@@ -48,3 +58,7 @@ A RESTful API is an application program interface (API) that uses HTTP requests 
 - [https://restfulapi.net](https://restfulapi.net)
 - [https://restful-api-design.readthedocs.io](https://restful-api-design.readthedocs.io)
 - [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com/)
+
+## Courses
+
+- [Udacity - Designing RESTful APIs](https://classroom.udacity.com/courses/ud388)

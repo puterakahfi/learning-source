@@ -46,19 +46,22 @@ module.exports = {
           '/en/flutter/',
           {
             title: "PHP Ecosystem",
-            children: ["en/php/","en/php/symfony-fw/"]
+            children: ["en/php/", "en/php/symfony-fw/"]
           },
           {
             title: "software development",
             children: [
+              "en/software-dev/software-testing",
+              "en/software-dev/tdd",
               "en/software-dev/ddd",
+              "en/software-dev/event-driven-development",
               "en/software-dev/oop",
               "en/software-dev/rest",
               "en/software-dev/software-architecture"]
           },
           {
             title: "vuejs Ecosystem",
-            children: ["en/vuejs/","en/vuejs/vuepress/","en/vuejs/gridsome/","en/vuejs/nuxtjs/","en/vuejs/vuex/"]
+            children: ["en/vuejs/", "en/vuejs/vuepress/", "en/vuejs/gridsome/", "en/vuejs/nuxtjs/", "en/vuejs/vuex/"]
           },
           {
             title: "web design",

@@ -7,6 +7,10 @@
 - [git -just a simple guide for getting started with git. no deep shit](https://rogerdudler.github.io/git-guide/)
 - [gitflow workflow](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
+### Branching
+### Merge
+- [How to Use Git Merge [the Correct Way]](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd)
+
 #### Video Tutorials
 
 <div class="columns">

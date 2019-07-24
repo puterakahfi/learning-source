@@ -3,9 +3,6 @@ module.exports = {
   title: "Learning Resources",
   description: "Links, videos, tutorials about learning",
   redirectPath: "/en/",
-  postcss: {
-      plugins: [require('tailwindcss')('./tailwind.js'), require('autoprefixer')],
-    },
   locales: {
     "/en/": {
       lang: "en-US",
@@ -43,56 +40,32 @@ module.exports = {
         sidebar: [
           {
             title: 'Basic web development',
-            children: ["en/css/", "en/html/", "en/javascript/", "en/git"]
+            children: ["en/general/frontend-roadmap", "en/general/backend-roadmap", "en/css/", "en/html/", "en/javascript/", "en/typescript/", "en/git"]
 
           },
+          '/en/flutter/',
           {
-            title: "flutter",
-            children: ["en/flutter/"]
-          },
-          {
-            title: "gridsome",
-            children: ["en/gridsome/"]
-          },
-          {
-            title: "javascript",
-            children: ["en/javascript/"]
-          },
-          {
-            title: "nuxtjs",
-            children: ["en/nuxtjs/"]
-          },
-          {
-            title: "php",
-            children: ["en/php/composer"]
-          },
-          {
-            title: "symfony framework",
-            children: ["en/symfony-fw/"]
+            title: "PHP Ecosystem",
+            children: ["en/php/", "en/php/symfony-fw/"]
           },
           {
             title: "software development",
             children: [
-              "en/software-dev/design-pattern",
+              "en/software-dev/software-testing",
+              "en/software-dev/tdd",
               "en/software-dev/ddd",
+              "en/software-dev/event-driven-development",
+              "en/software-dev/oop",
               "en/software-dev/rest",
               "en/software-dev/software-architecture"]
           },
           {
-            title: "vuejs",
-            children: ["en/vuejs/"]
-          },
-          {
-            title: "vuepress",
-            children: ["en/vuepress/"]
+            title: "vuejs Ecosystem",
+            children: ["en/vuejs/", "en/vuejs/vuepress/", "en/vuejs/gridsome/", "en/vuejs/nuxtjs/", "en/vuejs/vuex/"]
           },
           {
             title: "web design",
             children: ["en/web-design/", "en/web-design/ui", "en/web-design/ux"]
-          },
-          {
-            title: "yarn",
-            children: ["en/yarn/troubleshoot/"]
           }
         ]
       }

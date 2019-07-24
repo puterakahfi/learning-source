@@ -4,4 +4,4 @@
 
 Learning resources are collections (videos, tutorials, links), mostly about web programming. my compilation found problems, articles, tutorials that were quite helpful in the process of understanding something, so I would include this learning resource.
 
-**-- google translate**
+> **-- google translate**

@@ -20,11 +20,6 @@
 - [behance.net](https://www.behance.net/)
 - [uplabs.com](https://www.uplabs.com/)
 
-### Design System
-
-- [Eva Design System](https://eva.design/)
-- [Ant Design](https://ant.design/)
-
 ### Tutorials
 
 #### Coloring - Colorscheme - Palette

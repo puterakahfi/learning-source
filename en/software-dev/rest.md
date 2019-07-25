@@ -28,6 +28,10 @@
 
 - [Bulk Operations](http://apostolidis.me/bulk-operations/)
 
+### REST data response
+
+- [REST API response in partial success](https://stackoverflow.com/questions/45442847/rest-api-response-in-partial-success)
+
 ### REST API Validation
 
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/)

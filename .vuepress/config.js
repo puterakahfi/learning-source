@@ -64,8 +64,14 @@ module.exports = {
             children: ["en/vuejs/", "en/vuejs/vuepress/", "en/vuejs/gridsome/", "en/vuejs/nuxtjs/", "en/vuejs/vuex/"]
           },
           {
-            title: "web design",
-            children: ["en/web-design/", "en/web-design/ui", "en/web-design/ux"]
+            title: "Design",
+            children: [
+              "en/design/",
+              "en/design/ui",
+              "en/design/web-design",
+              "en/design/ux",
+              "en/design/design-systems"
+            ]
           }
         ]
       }

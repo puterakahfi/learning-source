@@ -31,6 +31,8 @@
 ### REST data response
 
 - [REST API response in partial success](https://stackoverflow.com/questions/45442847/rest-api-response-in-partial-success)
+- [Meta data REST API](https://torquemag.io/2014/09/working-meta-data-using-json-rest-api/)
+- [207 Multi-Status](https://evertpot.com/http/207-multi-status)
 
 ### REST API Validation
 

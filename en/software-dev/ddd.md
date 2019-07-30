@@ -44,6 +44,7 @@ One of the main characteristics of an entity is that it has an identity. The ide
 ## DDD and API
 
 - [DDD & REST Domain Driven Apis for the Web](https://www.slideshare.net/SpringCentral/ddd-rest-domain-driven-apis-for-the-web)
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1RgXgZcj5nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DDD and Software Architecture
@@ -51,10 +52,14 @@ One of the main characteristics of an entity is that it has an identity. The ide
 - [Domain-Driven Design - Layered Architecture](https://archfirst.org/domain-driven-design-6-layered-architecture/)
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 
-### Anemic model vs rich domain model
+## DDD and validation
+
+- [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/domain-model-layer-validations)
+
+## Anemic model vs rich domain model
 
 - [https://thevaluable.dev/anemic-domain-model/](https://thevaluable.dev/anemic-domain-model/)
 
-### Free DDD E-Books
+## Free DDD E-Books
 
 - [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years)

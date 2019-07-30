@@ -41,7 +41,10 @@ module.exports = {
           {
             title: 'Basic web development',
             children: ["en/general/frontend-roadmap", "en/general/backend-roadmap", "en/css/", "en/html/", "en/javascript/", "en/typescript/", "en/git"]
-
+          },
+          {
+            title: 'CMS (Content Management System)',
+            children: ["en/cms/wordpress"]
           },
           '/en/flutter/',
           {

@@ -72,6 +72,10 @@ module.exports = {
               "en/design/ux",
               "en/design/design-systems"
             ]
+          },
+          {
+            title: 'Human Development',
+            children: ["en/human-development/self-mastery"]
           }
         ]
       }

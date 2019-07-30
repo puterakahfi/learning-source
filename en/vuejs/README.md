@@ -5,11 +5,16 @@
 - [Awesome Vue -A curated list of awesome things related to Vue.js ](https://awesome-vue.js.org)
 
 # Tutorials
+
 - [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
 ## Beginner
 
 - [Hands-on Vue.js for Beginners ](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g)
+
+## Internationalization
+
+- [https://www.jenniferbland.com/adding-internationalization-to-a-vue-application](https://www.jenniferbland.com/adding-internationalization-to-a-vue-application)
 
 # Trainings/Courses
 

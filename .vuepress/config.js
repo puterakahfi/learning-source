@@ -52,7 +52,13 @@ module.exports = {
             children: ["en/php/", "en/php/symfony-fw/"]
           },
           {
-            title: "software development",
+            title: "software Design",
+            children: [
+              "en/software-design/uml"
+            ]
+          },
+          {
+            title: "software Development",
             children: [
               "en/software-dev/software-testing",
               "en/software-dev/tdd",

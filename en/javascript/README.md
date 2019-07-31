@@ -26,3 +26,5 @@
 
 - [Vuejs](https://vuejs.org/)
 - [Reactjs](https://reactjs.org/)
+
+### [Javascript libraries](libraries.md)

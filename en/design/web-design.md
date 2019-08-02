@@ -29,3 +29,14 @@
 ### Free E-Books
 
 - [138 FREE ebooks on User Experience, Usability, User Interface Design and more](https://userbrain.net/blog/free-ebooks-on-usability-user-experience-ui-and-more)
+
+### Free Templates
+
+#### Landing Page
+
+- [Cruip - Landing page templates for startups](https://cruip.com/)
+
+#### Admin
+
+- [ Stisla](https://getstisla.com/)
+- [Admin LTE](https://adminlte.io/)

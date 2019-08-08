@@ -24,16 +24,36 @@
 
 - [Vue Handbook](https://vuehandbook.com/)
 
-## Videos
+## Video Tutorials
+### Beginner  
 
 <div class="columns">
-  <div class="column">
+  <div class="column is-4">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5LYrN_cAJoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  <div class="column is-4">
    <iframe src="https://www.youtube.com/embed/Wy9q22isx3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
  </iframe> 
   </div>
-  <div class="column">
+  <div class="column is-4">
        <iframe  src="https://www.youtube.com/embed/4deVCNJq3qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+
+
+  </div>
+
+### Intermediate   
+
+
+<div class="columns">
+
+  
+  <div class="column is-4">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/8z2qRln9tnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
+  
 </div>
 
 # Vue js ecosystem

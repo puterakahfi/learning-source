@@ -95,6 +95,11 @@ module.exports = {
   },
 
   configureWebpack: {
-    plugins: [new BundleAnalyzerPlugin()]
+    plugins: [new BundleAnalyzerPlugin({
+      openAnalyzer: false,
+      statsFilename: 'test',
+      generateStatsFile: true,
+      analyzerMode: 'static'
+    })]
   }
 };

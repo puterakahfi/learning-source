@@ -11,6 +11,13 @@
 ## Beginner
 
 - [Hands-on Vue.js for Beginners ](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g)
+## Inermediate
+
+## Advanced 
+- [Build Your Own Video Chat with Vue, WebRTC, SocketIO, Node & Redis](https://levelup.gitconnected.com/build-your-own-video-chat-with-vue-webrtc-socketio-node-redis-eb51b78f9f55)
+
+## optimization
+- [How to Reduce Your Vue.JS Bundle Size With Webpack](https://www.jenniferbland.com/how-to-reduce-your-vue-js-bundle-size-with-webpack)
 
 ## Internationalization
 

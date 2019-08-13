@@ -1,3 +1,6 @@
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
+
+
 module.exports = {
   base: "/learning-source/",
   title: "Learning Resources",
@@ -89,5 +92,9 @@ module.exports = {
         ]
       }
     }
+  },
+
+  configureWebpack: {
+    plugins: [new BundleAnalyzerPlugin()]
   }
 };

@@ -15,6 +15,7 @@
 
 ## Advanced 
 - [Build Your Own Video Chat with Vue, WebRTC, SocketIO, Node & Redis](https://levelup.gitconnected.com/build-your-own-video-chat-with-vue-webrtc-socketio-node-redis-eb51b78f9f55)
+- [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-1)
 
 ## optimization
 - [How to Reduce Your Vue.JS Bundle Size With Webpack](https://www.jenniferbland.com/how-to-reduce-your-vue-js-bundle-size-with-webpack)

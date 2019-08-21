@@ -29,7 +29,7 @@
 
 ### SOLID Principles
 
-## OOP Patterns
+## [Design Patterns](design-pattern.md)
 
 ### Links
 

@@ -63,6 +63,7 @@ module.exports = {
           {
             title: "software Development",
             children: [
+              "en/software-dev/software-documentation",
               "en/software-dev/software-testing",
               "en/software-dev/tdd",
               "en/software-dev/ddd",

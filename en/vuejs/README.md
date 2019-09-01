@@ -11,13 +11,16 @@
 ## Beginner
 
 - [Hands-on Vue.js for Beginners ](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g)
+
 ## Inermediate
 
-## Advanced 
+## Advanced
+
 - [Build Your Own Video Chat with Vue, WebRTC, SocketIO, Node & Redis](https://levelup.gitconnected.com/build-your-own-video-chat-with-vue-webrtc-socketio-node-redis-eb51b78f9f55)
 - [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-1)
 
 ## optimization
+
 - [How to Reduce Your Vue.JS Bundle Size With Webpack](https://www.jenniferbland.com/how-to-reduce-your-vue-js-bundle-size-with-webpack)
 
 ## Internationalization
@@ -33,7 +36,8 @@
 - [Vue Handbook](https://vuehandbook.com/)
 
 ## Video Tutorials
-### Beginner  
+
+### Beginner
 
 <div class="columns">
   <div class="column is-4">
@@ -48,20 +52,16 @@
        <iframe  src="https://www.youtube.com/embed/4deVCNJq3qc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-
   </div>
 
-### Intermediate   
-
+### Intermediate
 
 <div class="columns">
 
-  
   <div class="column is-4">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/8z2qRln9tnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-  
 </div>
 
 # Vue js ecosystem

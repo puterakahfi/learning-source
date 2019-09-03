@@ -9,7 +9,8 @@ Software architecture refers to the fundamental structures of a software system 
 - [https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 - [How to Organize CLEAN ARCHITECTURE to Modular Patterns in 10 Minutes](https://hackernoon.com/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011)
  -[Implementing the Clean Architecture](https://www.entropywins.wtf/blog/2016/11/24/implementing-the-clean-architecture/)
-
+ - [Clean Architecture : Part 2 – The Clean Architecture](https://crosp.net/blog/software-architecture/clean-architecture-part-2-the-clean-architecture/)
+ 
 ### Hexagonal Architecture
 
 ![Hexagonal architecture](https://herbertograca.files.wordpress.com/2018/11/100-explicit-architecture-svg.png?w=600)

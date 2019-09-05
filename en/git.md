@@ -11,6 +11,9 @@
 ### Merge
 - [How to Use Git Merge [the Correct Way]](https://dev.to/neshaz/how-to-use-git-merge-the-correctway-25pd)
 
+### Rebase
+
+
 #### Video Tutorials
 
 <div class="columns">

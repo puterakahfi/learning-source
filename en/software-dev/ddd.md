@@ -15,6 +15,7 @@ tags: ["ddd"]
 
 ## Concept
 
+
 ### Domain
 
 - [What is the Domain Model in Domain Driven Design?](https://culttt.com/2014/11/12/domain-model-domain-driven-design/)
@@ -34,6 +35,13 @@ One of the main characteristics of an entity is that it has an identity. The ide
 - [DDD Concepts and Patterns – Entities](http://blog.opus.ch/2018/12/ddd-concepts-and-patterns-entities/)
 
 ### Bounded Context
+
+::: tip
+
+Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.
+::: 
+
+- [Martin Fowler - BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 
 ### Aggregate
 

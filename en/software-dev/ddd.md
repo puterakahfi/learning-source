@@ -67,3 +67,12 @@ One of the main characteristics of an entity is that it has an identity. The ide
 ## Free DDD E-Books
 
 - [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years)
+
+## Videos/Talks
+
+<div class="columns">
+  <div class="column is-6">
+  <h6> DDD and microservices </h6>
+ <iframe src="https://www.youtube.com/embed/sFCgXH7DwxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>

@@ -13,6 +13,7 @@
 - [Hands-on Vue.js for Beginners ](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g)
 
 ## Inermediate
+- [Optimize the Performance of a Vue App with Async Components](https://www.sitepoint.com/vue-async-components/)
 
 ## Advanced
 

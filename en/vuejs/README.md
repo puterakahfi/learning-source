@@ -68,3 +68,7 @@
 # Vue js ecosystem
 
 - [Nuxtjs](https://nuxtjs.org/) - [Gridsome](https://gridsome.org/) - [vuex](https://vuex.vuejs.org/guide/state.html)
+
+
+## Components 
+- [vue-treeselect is a multi-select component with nested options](https://vue-treeselect.js.org/)

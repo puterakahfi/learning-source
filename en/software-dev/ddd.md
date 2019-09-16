@@ -77,8 +77,9 @@ Bounded Context is a central pattern in Domain-Driven Design. It is the focus of
 
 - [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years)
 
-## Papers 
+## Papers / Presentations
 - [Eric Evans - GETTING STARTED WITH DDD WHEN SURROUNDED BY LEGACY SYSTEMS](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
+- [Introduction to Domain-Driven Design in PHP - ZendCon & OpenEnterprise 2018](https://speakerdeck.com/cassell/introduction-to-domain-driven-design-in-php-zendcon-and-openenterprise-2018)
 
 ## Videos/Talks
 

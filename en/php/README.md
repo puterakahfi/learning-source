@@ -21,6 +21,7 @@
 ### PHPspec
 
 - [Getting Started With Phpspec](https://code.tutsplus.com/tutorials/getting-started-with-phpspec--cms-20919)
+- [PHPSpec is So Good - Youtube](https://www.youtube.com/watch?v=EnaiSxfvDy8)
 
 ### PHP Unit
 

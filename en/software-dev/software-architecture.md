@@ -18,6 +18,10 @@ Software architecture refers to the fundamental structures of a software system 
 
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
+
+### Articles
+- [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/)
+
 ### Links
 
 - [https://archfirst.org](https://archfirst.org)

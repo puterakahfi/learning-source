@@ -14,3 +14,7 @@
 - [https://www.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html#adding-behavior-to-entities](https://www.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html#adding-behavior-to-entities)
 
 - [https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
+
+## Domain Events
+- [Domain Events with Symfony and Doctrine](https://www.thinktocode.com/2018/08/09/domain-events-with-symfony-and-doctrine/)
+- [Decouple your Symfony application using Domain Events](https://romaricdrigon.github.io/2019/08/09/domain-events)

@@ -13,7 +13,13 @@
 
 - [https://www.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html#adding-behavior-to-entities](https://www.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html#adding-behavior-to-entities)
 
-- [https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
+### Doctrine and Aggregate
+- [Doctrine ORM and DDD aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/)
+
+### Doctrine and Value Object
+- [https://www.thinktocode.com/2018/03/19/the-value-object-and-doctrine/](https://www.thinktocode.com/2018/03/19/the-value-object-and-doctrine/)
+- [Persisting Value Objects in Doctrine](http://rosstuck.com/persisting-value-objects-in-doctrine)
+
 
 ## Domain Events
 - [Domain Events with Symfony and Doctrine](https://www.thinktocode.com/2018/08/09/domain-events-with-symfony-and-doctrine/)

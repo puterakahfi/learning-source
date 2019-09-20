@@ -71,7 +71,7 @@ module.exports = {
               "en/software-dev/event-driven-development",
               "en/software-dev/oop",
               "en/software-dev/rest",
-              "en/software-dev/software-architecture"]
+              "en/software-architecture/"]
           },
           {
             title: "vuejs Ecosystem",

@@ -52,7 +52,7 @@ module.exports = {
               {
                 title: 'Node JS',
                 children: ["en/javascript/nodejs/"]
-              },
+              }
             ]
           },
           {
@@ -70,21 +70,26 @@ module.exports = {
             ]
           },
           {
-            title: "Software Design",
-            children: [
-              "en/software-design/uml"
-            ]
-          },
-          {
             title: "Software Development",
             children: [
               {
+                title: "Software Design",
+                children: [
+                  {
+                    title: 'UML',
+                    children: [
+                      "en/software-dev/software-design/uml/use-case"
+                    ]
+                  }
+                ]
+              },
+              {
                 title: 'Software Architecture',
                 children: [
-                  "en/software-architecture/",
-                  "en/software-architecture/clean-architecture",
-                  "en/software-architecture/hexagonal-architecture",
-                  "en/software-architecture/microservice-architecture"]
+                  "en/software-dev/software-architecture/",
+                  "en/software-dev/software-architecture/clean-architecture",
+                  "en/software-dev/software-architecture/hexagonal-architecture",
+                  "en/software-dev/software-architecture/microservice-architecture"]
               },
               {
                 title: 'Software Testing',

@@ -12,17 +12,25 @@
 
 - [PHP Tutorial From tutorialspoint](https://www.tutorialspoint.com/php/)
 
-## Frameworks
 
-- [Symfony](./symfony-fw/)
+## Platforms
+### E-Commerce
+- [Sylius](https://sylius.com/)
 
-## Testing Tools
+##  Tools
 
-### PHPspec
+#### Testing Tools
+##### [PHPspec](https://www.phpspec.net/en/stable/)
 
 - [Getting Started With Phpspec](https://code.tutsplus.com/tutorials/getting-started-with-phpspec--cms-20919)
 - [PHPSpec is So Good - Youtube](https://www.youtube.com/watch?v=EnaiSxfvDy8)
 
-### PHP Unit
+#### [PHP Unit](https://phpunit.de/)
 
 - [PHPUnit: What, Why, How?](https://andy-carter.com/blog/phpunit-what-why-how)
+
+#### [Behat](https://behat.org/en/latest/)
+
+
+#### Deployment Tools
+##### [Deployer](https://deployer.org/)

@@ -37,7 +37,7 @@ module.exports = {
     ],
     locales: {
       "/en/": {
-        lang: "bahasa", // this will be set as the lang attribute on <html>
+        lang: "us-en", // this will be set as the lang attribute on <html>
         title: "VuePress",
         description: "Vue-powered Static Site Generator",
         sidebar: [
@@ -45,14 +45,29 @@ module.exports = {
             title: 'Basic web development',
             children: ["en/general/frontend-roadmap", "en/general/backend-roadmap", "en/css/", "en/html/", "en/javascript/", "en/typescript/", "en/git"]
           },
-          {
-            title: 'CMS (Content Management System)',
-            children: ["en/cms/wordpress"]
-          },
           '/en/flutter/',
           {
+            title: "Javascript Ecosystem",
+            children: [
+              {
+                title: 'Node JS',
+                children: ["en/javascript/nodejs/"]
+              },
+            ]
+          },
+          {
             title: "PHP Ecosystem",
-            children: ["en/php/", "en/php/symfony-fw/"]
+            children: ["en/php/",
+
+              {
+                title: 'Frameworks',
+                children: ["en/php/symfony-fw/", "en/php/laravel-fw/"]
+              },
+              {
+                title: 'CMS (Content Management System)',
+                children: ["en/cms/wordpress"]
+              }
+            ]
           },
           {
             title: "Software Design",
@@ -63,19 +78,48 @@ module.exports = {
           {
             title: "Software Development",
             children: [
+              {
+                title: 'Software Architecture',
+                children: [
+                  "en/software-architecture/",
+                  "en/software-architecture/clean-architecture",
+                  "en/software-architecture/hexagonal-architecture",
+                  "en/software-architecture/microservice-architecture"]
+              },
+              {
+                title: 'Software Testing',
+                children: [
+                  "en/software-dev/software-testing/",
+                  "en/software-dev/software-testing/unit-testing",]
+              },
+              {
+                title: 'Software Driven  Models',
+                children: ["en/software-dev/tdd",
+                  "en/software-dev/ddd",
+                  "en/software-dev/event-driven-development"]
+              },
               "en/software-dev/agile-software-development",
-              "en/software-dev/software-documentation",
-              "en/software-dev/software-testing",
-              "en/software-dev/tdd",
-              "en/software-dev/ddd",
-              "en/software-dev/event-driven-development",
+              {
+                title: 'Software Documentation',
+                children: [
+                  "en/software-dev/software-documentation"]
+              },
               "en/software-dev/oop",
-              "en/software-dev/rest",
-              "en/software-architecture/"]
+              "en/software-dev/rest"]
           },
           {
-            title: "vuejs Ecosystem",
-            children: ["en/vuejs/", "en/vuejs/vuepress/", "en/vuejs/gridsome/", "en/vuejs/nuxtjs/", "en/vuejs/vuex/"]
+            title: "Front-end Development",
+            children: [
+              {
+                title: "vuejs Ecosystem",
+                children: [
+                  "en/vuejs/",
+                  "en/vuejs/vuepress/",
+                  "en/vuejs/gridsome/",
+                  "en/vuejs/nuxtjs/",
+                  "en/vuejs/vuex/"]
+              }
+            ]
           },
           {
             title: "Design",

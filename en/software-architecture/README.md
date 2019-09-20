@@ -1,12 +1,6 @@
-# Software Architecture
+# Introduction
 
 Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
-
-### [Clean Architecture](clean-architecture.md)
-
-### [Hexagonal Architecture](hexagonal-architecture.md)
-
-### [Microservice Architecture](mikroservice-architecture.md)
 
 ### Articles
 

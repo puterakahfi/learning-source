@@ -1,3 +1,8 @@
+---
+sidebarDepth: 2
+sidebar: auto
+---
+
 # Vuejs
 
 # Links

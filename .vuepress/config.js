@@ -58,13 +58,12 @@ module.exports = {
           {
             title: "PHP Ecosystem",
             children: ["en/php/",
-
               {
                 title: 'Frameworks',
                 children: ["en/php/symfony-fw/", "en/php/laravel-fw/"]
               },
               {
-                title: 'CMS (Content Management System)',
+                title: 'CMS(Content Management System)',
                 children: ["en/cms/wordpress"]
               }
             ]
@@ -78,7 +77,8 @@ module.exports = {
                   {
                     title: 'UML',
                     children: [
-                      "en/software-dev/software-design/uml/use-case"
+                      "en/software-dev/software-design/uml/use-case",
+                      "en/software-dev/software-design/uml/component"
                     ]
                   }
                 ]

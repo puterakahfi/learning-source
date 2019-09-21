@@ -1,3 +1,8 @@
+---
+sidebarDepth: 2
+sidebar: auto
+tags: ["uml"]
+---
 
 # Use Case Diagram
 

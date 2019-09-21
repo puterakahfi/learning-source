@@ -1,4 +1,6 @@
 ---
+sidebarDepth: 2
+sidebar: auto
 tags: ["ddd"]
 ---
 

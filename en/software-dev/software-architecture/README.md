@@ -18,4 +18,10 @@ Software architecture refers to the fundamental structures of a software system 
   <div class="column is-4">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DngAZyWMGR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
+
+   <div class="column is-4">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/US8QG9I1XW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Functional architecture - The pits of success - Mark Seemann
+
+  </div>
 </div>

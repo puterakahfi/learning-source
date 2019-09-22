@@ -9,10 +9,13 @@ sidebar: auto
 
 - [Awesome Vue -A curated list of awesome things related to Vue.js ](https://awesome-vue.js.org)
 
+
 # Tutorials
 
 - [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 
+## Best Practices
+- [3 tips for scaling large Vue.js application](https://dev.to/maxpou/3-tips-for-scaling-large-vuejs-application-2edi)
 ## Beginner
 
 - [Hands-on Vue.js for Beginners ](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g)

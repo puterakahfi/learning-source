@@ -43,7 +43,22 @@ module.exports = {
         sidebar: [
           {
             title: 'Basic web development',
-            children: ["en/general/frontend-roadmap", "en/general/backend-roadmap", "en/css/", "en/html/", "en/javascript/", "en/typescript/", "en/git"]
+            children: ["en/general/frontend-roadmap",
+              "en/general/backend-roadmap",
+              {
+                title: "CSS",
+                children: [
+                  "en/css/",
+                  {
+                    title: 'CSS Frameworks',
+                    children: ["en/css/tailwind","en/css/bootstrap"]
+                  }
+                ]
+              },
+              "en/html/",
+              "en/javascript/",
+              "en/typescript/",
+              "en/git"]
           },
           '/en/flutter/',
           {

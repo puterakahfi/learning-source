@@ -69,6 +69,9 @@
 
 - [JSON API](https://jsonapi.org/)
 
+## Security
+- [REST Security Cheatsheet OWASP](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html
+
 ## Links
 
 - [https://www.restapitutorial.com/](https://www.restapitutorial.com/)

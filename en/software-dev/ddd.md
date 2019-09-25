@@ -46,6 +46,10 @@ Bounded Context is a central pattern in Domain-Driven Design. It is the focus of
 - [Martin Fowler - BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 - [Bounded Contexts in the Wikimedia Fundraising Software](https://www.entropywins.wtf/blog/2018/08/14/bounded-contexts-in-the-wikimedia-fundraising-software/)
 
+
+#### Bounded Context Integration Strategies
+- [Strategies for Integrating Bounded Contexts](https://culttt.com/2014/11/26/strategies-integrating-bounded-contexts/)
+
 ### Aggregate
 
 - [Martin Fowler - DDD Aggregate](https://martinfowler.com/bliki/DDD_Aggregate.html)

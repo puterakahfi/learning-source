@@ -9,7 +9,7 @@ sidebar: auto
 ## What is DTO
 
 - [https://martinfowler.com/eaaCatalog/dataTransferObject.html](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
-
+- [Data Transfer Object Design Pattern in C#](https://www.codeproject.com/Articles/1050468/Data-Transfer-Object-Design-Pattern-in-Csharp#IntroductionandDefinition)
 ## Links
 
 - [A Better Way to Project Domain Entities into DTOs](https://buildplease.com/pages/repositories-dto/)

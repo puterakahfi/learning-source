@@ -11,6 +11,7 @@ Software architecture refers to the fundamental structures of a software system 
 ### Links About Software Architecture
 
 - [https://archfirst.org](https://archfirst.org)
+- [http://www.codingthearchitecture.com](http://www.codingthearchitecture.com)
 
 ### Talks
 

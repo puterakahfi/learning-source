@@ -13,10 +13,10 @@ sidebar: auto
 # Tutorials
 
 - [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
-
+- [ Build a movie search app using the Vue Composition API ](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
 ## Best Practices
 - [3 tips for scaling large Vue.js application](https://dev.to/maxpou/3-tips-for-scaling-large-vuejs-application-2edi)
-## Beginner
+## Beginnzer
 
 - [Hands-on Vue.js for Beginners ](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g)
 
